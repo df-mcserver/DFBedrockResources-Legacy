@@ -1,0 +1,274 @@
+{
+    "resource_pack_name": "DFBedrockResources",
+    "texture_name": "atlas.items",
+    "texture_data": {
+      "vein_pickaxe": {
+        "textures": "textures/items/dfbr/vein_tools/vein_pickaxe"
+      },
+      "vein_axe": {
+        "textures": "textures/items/dfbr/vein_tools/vein_axe"
+      },
+
+      "silk_sword": {
+        "textures": "textures/items/dfbr/silk_tools/silk_sword"
+      },
+      "silk_pickaxe": {
+        "textures": "textures/items/dfbr/silk_tools/silk_pickaxe"
+      },
+      "silk_axe": {
+        "textures": "textures/items/dfbr/silk_tools/silk_axe"
+      },
+      "silk_shovel": {
+        "textures": "textures/items/dfbr/silk_tools/silk_shovel"
+      },
+      "silk_hoe": {
+        "textures": "textures/items/dfbr/silk_tools/silk_hoe"
+      },
+
+      "warped_wart": {
+        "textures": "textures/items/dfbr/plants/warped_wart"
+      },
+
+      "obsidian_sword": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_sword"
+      },
+      "obsidian_pickaxe": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_pickaxe"
+      },
+      "obsidian_axe": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_axe"
+      },
+      "obsidian_shovel": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_shovel"
+      },
+      "obsidian_hoe": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_hoe"
+      },
+      "obsidian_boots": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_boots"
+      },
+      "obsidian_leggings": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_leggings"
+      },
+      "obsidian_chestplate": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_chestplate"
+      },
+      "obsidian_helmet": {
+        "textures": "textures/items/dfbr/obsidian/obsidian_helmet"
+      },
+
+      "magic_mirror": {
+        "textures": "textures/items/dfbr/etc/magic_mirror"
+      },
+      "entity_bucket": {
+        "textures": "textures/items/dfbr/etc/entity_bucket"
+      },
+      "inventory_part": {
+        "textures": "textures/items/dfbr/etc/inventory_part"
+      },
+
+      "calcite_sword": {
+        "textures": "textures/items/dfbr/calcite_tools/calcite_sword"
+      },
+      "calcite_pickaxe": {
+        "textures": "textures/items/dfbr/calcite_tools/calcite_pickaxe"
+      },
+      "calcite_axe": {
+        "textures": "textures/items/dfbr/calcite_tools/calcite_axe"
+      },
+      "calcite_shovel": {
+        "textures": "textures/items/dfbr/calcite_tools/calcite_shovel"
+      },
+      "calcite_hoe": {
+        "textures": "textures/items/dfbr/calcite_tools/calcite_hoe"
+      },
+
+      "hermesboots": {
+        "textures": "textures/items/dfbr/accessory/hermesboots"
+      },
+      "flowerboots": {
+        "textures": "textures/items/dfbr/accessory/flowerboots"
+      },
+      "lucky_horseshoe": {
+        "textures": "textures/items/dfbr/accessory/lucky_horseshoe"
+      },
+      "cobalt_shield": {
+        "textures": "textures/items/dfbr/accessory/cobalt_shield"
+      },
+      "vein_essence": {
+        "textures": "textures/items/dfbr/accessory/vein_essence"
+      },
+      "autosmelt_essence": {
+        "textures": "textures/items/dfbr/accessory/autosmelt_essence"
+      },
+      "htbook": {
+        "textures": "textures/items/dfbr/accessory/htbook"
+      },
+      "contaminated_membrane": {
+        "textures": "textures/items/dfbr/accessory/contaminated_membrane"
+      },
+      "cloudinabottle": {
+        "textures": "textures/items/dfbr/accessory/cloudinabottle"
+      },
+
+      "firidium_sword": {
+        "textures": "textures/items/dfbr/firidium/firidium_sword"
+      },
+      "firidium_pickaxe": {
+        "textures": "textures/items/dfbr/firidium/firidium_pickaxe"
+      },
+      "firidium_axe": {
+        "textures": "textures/items/dfbr/firidium/firidium_axe"
+      },
+      "firidium_shovel": {
+        "textures": "textures/items/dfbr/firidium/firidium_shovel"
+      },
+      "firidium_hoe": {
+        "textures": "textures/items/dfbr/firidium/firidium_hoe"
+      },
+      "firidium_helmet": {
+        "textures": "textures/items/dfbr/firidium/firidium_helmet"
+      },
+      "firidium_chestplate": {
+        "textures": "textures/items/dfbr/firidium/firidium_chestplate"
+      },
+      "firidium_leggings": {
+        "textures": "textures/items/dfbr/firidium/firidium_leggings"
+      },
+      "firidium_boots": {
+        "textures": "textures/items/dfbr/firidium/firidium_boots"
+      },
+      "firidium_ingot": {
+        "textures": "textures/items/dfbr/firidium/firidium_ingot"
+      },
+      "firidium_nugget": {
+        "textures": "textures/items/dfbr/firidium/firidium_nugget"
+      },
+
+      "stage0_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage0"
+      },
+      "stage1_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage1"
+      },
+      "stage2_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage2"
+      },
+      "stage3_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage3"
+      },
+      "stage4_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage4"
+      },
+      "stage5_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage5"
+      },
+      "stage6_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage6"
+      },
+      "stage7_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage7"
+      },
+      "stage8_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage8"
+      },
+      "stage9_sword": {
+        "textures": "textures/items/dfbr/progress_sword/stage9"
+      },
+
+
+      "bloody_tear": {
+        "textures": "textures/items/dfbr/etc/bloody_tear"
+      },
+
+      "wildbow_bow": {
+        "textures": [
+          "textures/items/dfbr/wild/wildbow_bow_standby",
+          "textures/items/dfbr/wild/wildbow_bow_pulling_0",
+          "textures/items/dfbr/wild/wildbow_bow_pulling_1",
+          "textures/items/dfbr/wild/wildbow_bow_pulling_2"
+        ]
+      },
+      "wildbow_pulling": {
+        "textures": [
+          "textures/items/dfbr/wild/wildbow_bow_pulling_0",
+          "textures/items/dfbr/wild/wildbow_bow_pulling_1",
+          "textures/items/dfbr/wild/wildbow_bow_pulling_2"
+        ]
+      },
+      "wildbow_standby": {
+        "textures": "textures/items/dfbr/wild/wildbow_bow_standby"
+      },
+      "wildbow_sword": {
+        "textures": "textures/items/dfbr/wild/wildbow_sword"
+      },
+
+      "copper_helmet": {
+        "textures": "textures/items/dfbr/copper/copper_helmet"
+      },
+      "copper_chestplate": {
+        "textures": "textures/items/dfbr/copper/copper_chestplate"
+      },
+      "copper_leggings": {
+        "textures": "textures/items/dfbr/copper/copper_leggings"
+      },
+      "copper_boots": {
+        "textures": "textures/items/dfbr/copper/copper_boots"
+      },
+
+      "copper_sword": {
+        "textures": "textures/items/dfbr/copper/copper_sword"
+      },
+      "copper_pickaxe": {
+        "textures": "textures/items/dfbr/copper/copper_pickaxe"
+      },
+      "copper_axe": {
+        "textures": "textures/items/dfbr/copper/copper_axe"
+      },
+      "copper_shovel": {
+        "textures": "textures/items/dfbr/copper/copper_shovel"
+      },
+      "copper_hoe": {
+        "textures": "textures/items/dfbr/copper/copper_hoe"
+      },
+
+      "legacy_totem": {
+        "textures": "textures/items/dfbr/totems/legacy_totem"
+      },
+      "amongus": {
+        "textures": "textures/items/dfbr/totems/amongus"
+      },
+      "creepertotem": {
+        "textures": "textures/items/dfbr/totems/creepertotem"
+      },
+      "dantdmtotem": {
+        "textures": "textures/items/dfbr/totems/dantdmtotem"
+      },
+      "technototem": {
+        "textures": "textures/items/dfbr/totems/technototem"
+      },
+      "herobrinetotem": {
+        "textures": "textures/items/dfbr/totems/herobrinetotem"
+      },
+
+      "sculk_fragment": {
+        "textures": "textures/items/dfbr/sculk/sculk_fragment"
+      },
+      "sculk_helmet": {
+        "textures": "textures/items/dfbr/sculk/sculk_helmet"
+      },
+      "sculk_chestplate": {
+        "textures": "textures/items/dfbr/sculk/sculk_chestplate"
+      },
+      "sculk_leggings": {
+        "textures": "textures/items/dfbr/sculk/sculk_leggings"
+      },
+      "sculk_boots": {
+        "textures": "textures/items/dfbr/sculk/sculk_boots"
+      },
+
+      "spawn_egg": {
+          "textures": ["textures/items/egg_chicken", "textures/items/egg_cow", "textures/items/egg_pig", "textures/items/egg_sheep", "textures/items/egg_wolf", "textures/items/egg_mushroomcow", "textures/items/egg_creeper", "textures/items/egg_enderman", "textures/items/egg_silverfish", "textures/items/egg_skeleton", "textures/items/egg_slime", "textures/items/egg_spider", "textures/items/egg_zombie", "textures/items/egg_zombified_piglin", "textures/items/egg_villager", "textures/items/egg_squid", "textures/items/egg_ocelot", "textures/items/egg_witch", "textures/items/egg_bat", "textures/items/egg_ghast", "textures/items/egg_magma_cube", "textures/items/egg_blaze", "textures/items/egg_cave_spider", "textures/items/egg_horse", "textures/items/egg_rabbit", "textures/items/egg_endermite", "textures/items/egg_guardian", "textures/items/egg_stray", "textures/items/egg_husk", "textures/items/egg_wither_skeleton", "textures/items/egg_donkey", "textures/items/egg_mule", "textures/items/egg_skeleton_horse", "textures/items/egg_zombie_horse", "textures/items/egg_shulker", "textures/items/egg_npc", "textures/items/egg_elder_guardian", "textures/items/egg_polar_bear", "textures/items/egg_llama", "textures/items/egg_vindicator", "textures/items/egg_evoker", "textures/items/egg_vex", "textures/items/egg_zombie_villager", "textures/items/egg_parrot", "textures/items/egg_clownfish", "textures/items/egg_cod", "textures/items/egg_pufferfish", "textures/items/egg_salmon", "textures/items/egg_drowned", "textures/items/egg_dolphin", "textures/items/egg_turtle", "textures/items/egg_phantom", "textures/items/egg_agent", "textures/items/egg_cat", "textures/items/egg_panda", "textures/items/egg_fox", "textures/items/egg_pillager", "textures/items/egg_ravager", "textures/items/egg_null", "textures/items/egg_mask", "textures/items/egg_hoglin", "textures/items/egg_piglin_brute", "textures/items/egg_piglin", "textures/items/egg_strider", "textures/items/egg_zoglin", "textures/items/egg_glow_squid", "textures/items/egg_goat", "textures/items/egg_axolotl", "textures/items/egg_allay", "textures/items/egg_frog", "textures/items/egg_warden", "textures/items/egg_tadpole", "textures/items/egg_trader_llama", "textures/items/egg_iron_golem", "textures/items/egg_snow_golem", "textures/items/egg_camel", "textures/items/egg_sniffer", "textures/items/egg_wither", "textures/items/egg_ender_dragon", "textures/items/egg_armadillo", "textures/items/egg_bogged", "textures/items/egg_breeze", "textures/items/egg_creaking"]
+      }
+    }
+}
